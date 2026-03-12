@@ -12,6 +12,7 @@ A backend service for tracking daily habits.
 - Python
 - Django
 - REST API
+- FAst API
 
 🔗 https://github.com/stasm-skypro/habit-tracker
 
@@ -51,6 +52,7 @@ Codewars solutions:
 
 - Python
 - Django
+- Fast API
 - PostgreSQL
 - Docker
 - Git
