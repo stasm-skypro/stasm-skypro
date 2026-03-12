@@ -62,8 +62,6 @@ Codewars solutions:
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![Stanislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=stasm-skypro&show_icons=true&hide_border=true&bg_color=00000000)
 
 ---
