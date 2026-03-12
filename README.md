@@ -62,7 +62,9 @@ Codewars solutions:
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=stasm-skypro&show_icons=true)
+## 📊 GitHub Stats
+
+![Stanislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=stasm-skypro&show_icons=true&hide_border=true&bg_color=00000000)
 
 ---
 
@@ -74,5 +76,5 @@ Codewars solutions:
 
 ## 📈 Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stasm-skypro)
+![GitHub Streak](https://streak-stats.demolab.com?user=stasm-skypro&theme=transparent&hide_border=true)
 
